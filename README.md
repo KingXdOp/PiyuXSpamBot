@@ -8,13 +8,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 Bots in One time 🔥
+- [x] Deploy 10 PiyuSpam Bots in One time 🔥
 - [x] Deploy Using Bot Token 
 - [x] Porn Spam | Hang Spam `new`
 - [x] Soon Inline Spam
 
 # Hᴏsᴛɪɴɢ
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=How+To+Deploy+PiyuXSpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+PiyuXSpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
 </p>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
@@ -22,9 +22,9 @@
 
 #### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/dominator454/BOTDEPLOY) 
 
-## What Is DollX_SpamBot
+## What Is PiyuXspamBot
 
-<b>DollX_SpamBot Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
+<b>Piyu Is An Telethon Bassed SpamBot That Spam In Telegram Groups And personal Chats, this bot is specially used by clan users when ever fights starts between two clan or between two users</b>
 
 ## Is Safe To Deploy
 
